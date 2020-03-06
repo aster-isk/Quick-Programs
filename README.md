@@ -6,3 +6,6 @@ This is a file of color-related functions that I use often in my programs.
 
 # Spirograph
 A program that allows a user to create their own spirograph by manipulating the size of the inner gear and the placement of the pen on the gear. There is an option to change the color and the option for a rainbow color scheme.
+
+# Data Structures
+As named, a collection of data structures for my own personal use/study purposes.
